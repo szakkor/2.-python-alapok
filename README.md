@@ -1,1 +1,1 @@
-# 2.-python-alapok
+# web-szakkor-1
